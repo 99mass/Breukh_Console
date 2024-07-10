@@ -1,0 +1,5 @@
+
+## Exécutable Windows/Linux
+```
+python3 -m PyInstaller --onefile --windowed --name BreukhConsole script.py
+```
